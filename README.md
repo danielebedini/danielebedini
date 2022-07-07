@@ -1,9 +1,9 @@
-### Hi there, I'm Daniele 👋
-#### I am a Student of Università di Pisa
+# Hi there, I'm Daniele 👋
+## I am a Student of Università di Pisa
 
-I'm currently studying Computer Science and I'm about to start my 3rd and last academic year 
+I'm currently studying Computer Science and I'm about to start my 3rd and last academic year.
 
-Skills: JS / TS/ JS / HTML / CSS / PHP / C / C++ / PY 
+Skills: JS / TS/ JS / HTML / CSS / PHP / C / C++ / PY / JAVA
 
 <!--
 **danielebedini/danielebedini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
