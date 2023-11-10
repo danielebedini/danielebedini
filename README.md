@@ -2,7 +2,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielebedini&label=Profile%20views&color=0e75b6&style=flat" alt="danielebedini" /> </p>-->
 
-<!-- 📫 How to reach me **dani.bedo00@gmail.com** -->
+<!-- - 📫 How to reach me **dani.bedo00@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
